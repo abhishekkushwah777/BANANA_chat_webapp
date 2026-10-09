@@ -47,7 +47,11 @@ The application supports user authentication, private conversations, persistent 
   * Real-time UI updates when new messages arrive
 
 ---
+# Downloads
 
+App release v1 - https://drive.google.com/drive/folders/1T00gf0qyKjLpf05698rYu_bkRyjexsDc?usp=drive_link
+
+---
 ## UI Design
 ### Login UI
 
